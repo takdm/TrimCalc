@@ -8,7 +8,7 @@ print("Input number of slits across")
 across = int(input())
 
 trimsize = mrsize - (slitsize * across) # hopefully does the math for the trim size
-print("You have a trim size of", trimsize)
+print("You have a trim size of", round(trimsize), 1)
 
 print("What is your label roll weight")
 rollweight = float(input())
