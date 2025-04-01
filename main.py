@@ -14,4 +14,4 @@ print("What is your label roll weight")
 rollweight = float(input())
 
 trimweight = (rollweight / slitsize) * trimsize
-print("Your trim weight is", trimweight)
+print("Your trim weight is", round(trimweight))
