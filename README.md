@@ -39,8 +39,3 @@ Trim Weight: 10.63
 ```
 
 ---
-
-## License
-
-MIT License
-
