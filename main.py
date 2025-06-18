@@ -35,6 +35,6 @@ def main():
 
     print(f"\nTrim Size: {trim_size:.2f} inches")
     print(f"Trim Weight: {trim_weight:.2f}")
-
+    input()
 if __name__ == "__main__":
     main()
