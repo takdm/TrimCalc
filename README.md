@@ -9,24 +9,11 @@ TrimCalc helps you calculate the trim size and trim weight for material rolls—
 
 ## Usage
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/takdm/trimcalc.git
-   cd trimcalc
-   ```
 
-2. **(Optional) Create a virtual environment:**
-   ```bash
-   python3 -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
+1 **Download Release**
+   Unzip and run main.exe
 
-3. **Run the calculator:**
-   ```bash
-   python3 main.py
-   ```
-
-4. **Follow the prompts:**
+2. **Follow the prompts:**
    - Enter MR Size (inches)
    - Enter Slit Roll Size (mm)
    - Enter Number of Slits
